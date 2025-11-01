@@ -1,1 +1,1 @@
-# P3
+See server.js for endpoints. POST form url to /api/shorturl.
